@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: ls -lah
-      - uses: actions?checkout@v3
+      - uses: actions/checkout@v3
       - run: find .
     
       
