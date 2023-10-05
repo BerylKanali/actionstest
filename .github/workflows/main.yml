@@ -8,5 +8,5 @@ jobs:
   OurSpecialJob:
     runs-on: ubuntu-latest
     steps:
-      - run: echo" 🎉 Woohoo...We ran a job"
+      - run: echo "🎉 Woohoo...We ran a job"
       
