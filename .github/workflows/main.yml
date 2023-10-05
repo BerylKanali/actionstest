@@ -6,7 +6,7 @@ on:
 
 jobs:
   OurSpecialJob:
-    runs-on: ubuntu_latest
+    runs-on: ubuntu-latest
     steps:
       - run: echo" 🎉 Woohoo...We ran a job"
       
